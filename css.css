@@ -30,3 +30,41 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 } 
+
+section{
+  width: 100%;
+  min-height: 300px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.sec{
+  margin: 0px 10%;
+
+}
+
+.left{
+  float: left;
+  width: 30%;
+  
+}
+
+.right{
+  float: left;
+  width: 70%;
+}
+
+h1{
+  font-size: 35px;
+}
+
+h2{
+  font-size: 20px;
+  color: #3388BB;
+  border-bottom: 3px solid #3388DD;
+}
+
+p{
+  font-size: 13px;
+  font-family: Verdana, sans-serif;
+}
